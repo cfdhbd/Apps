@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "1e6a25713133fc40a10f1146b48b1eef"
+build_time: [559073647, 534579000]
+inputs:
+  "/Users/jonathankirchman/github/Apps/FoodTracker/FoodTracker/ViewController.swift": [559073642, 0]
+  "/Users/jonathankirchman/github/Apps/FoodTracker/FoodTracker/AppDelegate.swift": [559073642, 0]
